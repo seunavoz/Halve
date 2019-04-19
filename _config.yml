@@ -29,29 +29,29 @@ sass:
 #google-analytics: UA-XXXXX-Y
 
 # Social Links
-#email:             email
+email:             seunavoz10@gmail.com
 #google.plus:        username
-twitter:            username
+#twitter:            username
 #facebook:           username
-github:             username
+#github:             username
 #linkedin:          username
 #xing:              username
-#instagram:          username
+instagram:          se.unavoz
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
 #foursquare:        username
 #steam:              username
 #dribbble:          username
-#youtube:           username
-#soundcloud:        username
+youtube:           username
+soundcloud:        erick-unavoz
 #weibo:             username
 #flickr:            username
 #codepen:           username
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-behance:           username
+#behance:           username
 
 # Gems
 gems:
