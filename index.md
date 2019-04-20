@@ -3,8 +3,9 @@ layout: home
 ---
 # About Theme
 
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
+El proyecto [Sé una Voz] busca equipar al pueblo de Dios con las herramientas que el Señor dejo para edificarnos y prepararnos para su regreso.
 
-To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
+Buscamos ser los discipulos que puedan llevar a este mundo a un encuentro con Dios, fundamentados los principios
+Biblicos de vivir en perfecta comunión y en un crecimiento constante con Jesús.
 
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
+Muy Pronto iniciaremos con el curso [Adoración en tiempos de Avivamiento]
